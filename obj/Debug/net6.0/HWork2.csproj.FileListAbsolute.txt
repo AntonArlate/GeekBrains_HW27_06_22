@@ -1,0 +1,15 @@
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.csproj.AssemblyReference.cache
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.AssemblyInfoInputs.cache
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.AssemblyInfo.cs
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.csproj.CoreCompileInputs.cache
+C:\GBWorks\C_Programming\HWork2\bin\Debug\net6.0\HWork2.exe
+C:\GBWorks\C_Programming\HWork2\bin\Debug\net6.0\HWork2.deps.json
+C:\GBWorks\C_Programming\HWork2\bin\Debug\net6.0\HWork2.runtimeconfig.json
+C:\GBWorks\C_Programming\HWork2\bin\Debug\net6.0\HWork2.dll
+C:\GBWorks\C_Programming\HWork2\bin\Debug\net6.0\HWork2.pdb
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.dll
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\refint\HWork2.dll
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.pdb
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\HWork2.genruntimeconfig.cache
+C:\GBWorks\C_Programming\HWork2\obj\Debug\net6.0\ref\HWork2.dll
