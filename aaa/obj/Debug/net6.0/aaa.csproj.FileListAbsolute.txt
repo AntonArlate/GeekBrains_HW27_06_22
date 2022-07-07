@@ -1,0 +1,15 @@
+C:\GBWorks\C_Programming\HWork2\aaa\bin\Debug\net6.0\aaa.exe
+C:\GBWorks\C_Programming\HWork2\aaa\bin\Debug\net6.0\aaa.deps.json
+C:\GBWorks\C_Programming\HWork2\aaa\bin\Debug\net6.0\aaa.runtimeconfig.json
+C:\GBWorks\C_Programming\HWork2\aaa\bin\Debug\net6.0\aaa.dll
+C:\GBWorks\C_Programming\HWork2\aaa\bin\Debug\net6.0\aaa.pdb
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.csproj.AssemblyReference.cache
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.AssemblyInfoInputs.cache
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.AssemblyInfo.cs
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.csproj.CoreCompileInputs.cache
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.dll
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\refint\aaa.dll
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.pdb
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\aaa.genruntimeconfig.cache
+C:\GBWorks\C_Programming\HWork2\aaa\obj\Debug\net6.0\ref\aaa.dll
